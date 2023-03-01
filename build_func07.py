@@ -5,7 +5,7 @@ def main(x, y):
     Args:
         x (int): integer
         y (int): integer
-        
+    
     Returns:
         int: the value of the expression
     """

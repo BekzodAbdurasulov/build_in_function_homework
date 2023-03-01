@@ -10,4 +10,4 @@ def main(number):
     return abs(number)
 
 
-print(main(number=-345678));
+print(main(number=-345678))
